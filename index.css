@@ -1,0 +1,29 @@
+h1 {
+	font-family: Arial;
+	text-align: center;
+	font-size: 40px;
+
+}
+
+p {
+	font-family: Helvetica;
+	font-size:20px;
+
+}
+
+body {
+	background-color:#FFE4C4;
+
+}
+
+.pink {
+	color:blue;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	color:red;
+}

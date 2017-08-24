@@ -1,0 +1,48 @@
+#container{
+	width:400px;
+	height:400px;
+	
+
+	
+	
+}
+
+#top-left{
+	width:200px;
+	height:200px;
+	border-top-left-radius:200px;
+	background-color:red;
+	float:left;
+	
+	
+}
+
+#top-right{
+	width:200px;
+	height:200px;
+	border-top-right-radius:200px;
+	background:yellow;
+	float:right;
+	
+	
+}
+
+#bottom-left{
+	width:200px;
+	height:200px;
+	border-bottom-left-radius:200px;
+	background:blue;
+	float:left;
+
+}
+
+#bottom-right{
+	width:200px;
+	height:200px;
+	border-bottom-right-radius:200px;
+	background-color:green;
+	float:right;
+	
+}
+
+
